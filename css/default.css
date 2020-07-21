@@ -134,7 +134,9 @@ body {
 #note .placeholder {
     margin-left: 15px
 }
-
+#note p{
+	line-height: 28px;
+}
 #note .space {
     margin-left: 7px
 }
